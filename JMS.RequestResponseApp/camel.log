@@ -1,0 +1,574 @@
+2019-04-09 10:52:26,496 | INFO | DefaultCamelContext.java 3138 | Apache Camel 2.23.1 (CamelContext: camel-1) is starting
+2019-04-09 10:52:26,499 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2019-04-09 10:52:26,749 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 195, classpath: 4)
+2019-04-09 10:52:26,866 | INFO | DefaultCamelContext.java 3465 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-04-09 10:52:26,875 | INFO | FileEndpoint.java 103 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2019-04-09 10:52:26,875 | INFO | FileEndpoint.java 109 | Using default memory based idempotent repository with cache max size: 1000
+2019-04-09 10:52:26,931 | INFO | DefaultCamelContext.java 4034 | Route: route1 started and consuming from: file://data/input?noop=true
+2019-04-09 10:52:26,932 | INFO | DefaultCamelContext.java 3186 | Total 1 routes, of which 1 are started
+2019-04-09 10:52:26,934 | INFO | DefaultCamelContext.java 3197 | Apache Camel 2.23.1 (CamelContext: camel-1) started in 0.442 seconds
+2019-04-09 10:52:31,935 | INFO | DefaultCamelContext.java 3496 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutting down
+2019-04-09 10:52:31,936 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2019-04-09 10:52:31,939 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input?noop=true
+2019-04-09 10:52:31,942 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2019-04-09 10:52:31,948 | INFO | DefaultCamelContext.java 3596 | Apache Camel 2.23.1 (CamelContext: camel-1) uptime 5.458 seconds
+2019-04-09 10:52:31,949 | INFO | DefaultCamelContext.java 3597 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutdown in 0.014 seconds
+2019-04-09 11:02:36,593 | INFO | DefaultCamelContext.java 3138 | Apache Camel 2.23.1 (CamelContext: camel-1) is starting
+2019-04-09 11:02:36,596 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2019-04-09 11:02:36,824 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 195, classpath: 4)
+2019-04-09 11:02:36,919 | INFO | DefaultCamelContext.java 3465 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-04-09 11:02:36,927 | INFO | FileEndpoint.java 103 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2019-04-09 11:02:36,927 | INFO | FileEndpoint.java 109 | Using default memory based idempotent repository with cache max size: 1000
+2019-04-09 11:02:36,971 | INFO | DefaultCamelContext.java 4034 | Route: route1 started and consuming from: file://data/input?noop=true
+2019-04-09 11:02:36,971 | INFO | DefaultCamelContext.java 3186 | Total 1 routes, of which 1 are started
+2019-04-09 11:02:36,974 | INFO | DefaultCamelContext.java 3197 | Apache Camel 2.23.1 (CamelContext: camel-1) started in 0.382 seconds
+2019-04-09 11:02:41,976 | INFO | DefaultCamelContext.java 3496 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutting down
+2019-04-09 11:02:41,976 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2019-04-09 11:02:41,979 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input?noop=true
+2019-04-09 11:02:41,982 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2019-04-09 11:02:41,990 | INFO | DefaultCamelContext.java 3596 | Apache Camel 2.23.1 (CamelContext: camel-1) uptime 5.401 seconds
+2019-04-09 11:02:41,990 | INFO | DefaultCamelContext.java 3597 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutdown in 0.014 seconds
+2019-04-09 11:05:56,844 | INFO | DefaultCamelContext.java 3138 | Apache Camel 2.23.1 (CamelContext: camel-1) is starting
+2019-04-09 11:05:56,847 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2019-04-09 11:05:57,068 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 195, classpath: 4)
+2019-04-09 11:05:57,190 | INFO | DefaultCamelContext.java 3465 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-04-09 11:05:57,489 | INFO | BrokerService.java 521 | Using Persistence Adapter: MemoryPersistenceAdapter
+2019-04-09 11:05:57,490 | INFO | BrokerService.java 799 | ActiveMQ 5.6.0 JMS Message Broker (localhost) is starting
+2019-04-09 11:05:57,490 | INFO | BrokerService.java 801 | For help or more information please see: http://activemq.apache.org/
+2019-04-09 11:05:57,537 | INFO | ManagementContext.java 101 | JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2019-04-09 11:05:57,631 | INFO | BrokerService.java 564 | ActiveMQ JMS Message Broker (localhost, ID:FBDLXPS15-54408-1554793557506-0:1) started
+2019-04-09 11:05:57,638 | INFO | TransportConnector.java 265 | Connector vm://localhost Started
+2019-04-09 11:05:57,679 | INFO | DefaultCamelContext.java 4034 | Route: route1 started and consuming from: activemq://queue:JMS.SAMPLE.REQ
+2019-04-09 11:05:57,679 | INFO | DefaultCamelContext.java 3186 | Total 1 routes, of which 1 are started
+2019-04-09 11:05:57,680 | INFO | DefaultCamelContext.java 3197 | Apache Camel 2.23.1 (CamelContext: camel-1) started in 0.839 seconds
+2019-04-09 11:06:47,682 | INFO | DefaultCamelContext.java 3496 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutting down
+2019-04-09 11:06:47,682 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2019-04-09 11:06:47,741 | INFO | TransportConnector.java 307 | Connector vm://localhost Stopped
+2019-04-09 11:06:47,742 | INFO | BrokerService.java 605 | ActiveMQ Message Broker (localhost, ID:FBDLXPS15-54408-1554793557506-0:1) is shutting down
+2019-04-09 11:06:47,751 | INFO | BrokerService.java 676 | ActiveMQ JMS Message Broker (localhost, ID:FBDLXPS15-54408-1554793557506-0:1) stopped
+2019-04-09 11:06:47,752 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: activemq://queue:JMS.SAMPLE.REQ
+2019-04-09 11:06:47,753 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2019-04-09 11:06:47,762 | INFO | DefaultCamelContext.java 3596 | Apache Camel 2.23.1 (CamelContext: camel-1) uptime 50.922 seconds
+2019-04-09 11:06:47,762 | INFO | DefaultCamelContext.java 3597 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutdown in 0.080 seconds
+2019-04-09 11:07:01,485 | INFO | DefaultCamelContext.java 3138 | Apache Camel 2.23.1 (CamelContext: camel-1) is starting
+2019-04-09 11:07:01,488 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2019-04-09 11:07:01,707 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 195, classpath: 4)
+2019-04-09 11:07:01,829 | INFO | DefaultCamelContext.java 3465 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-04-09 11:07:02,111 | INFO | BrokerService.java 521 | Using Persistence Adapter: MemoryPersistenceAdapter
+2019-04-09 11:07:02,112 | INFO | BrokerService.java 799 | ActiveMQ 5.6.0 JMS Message Broker (localhost) is starting
+2019-04-09 11:07:02,112 | INFO | BrokerService.java 801 | For help or more information please see: http://activemq.apache.org/
+2019-04-09 11:07:02,165 | INFO | ManagementContext.java 101 | JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2019-04-09 11:07:02,245 | INFO | BrokerService.java 564 | ActiveMQ JMS Message Broker (localhost, ID:FBDLXPS15-54430-1554793622128-0:1) started
+2019-04-09 11:07:02,250 | INFO | TransportConnector.java 265 | Connector vm://localhost Started
+2019-04-09 11:07:02,287 | INFO | DefaultCamelContext.java 4034 | Route: route1 started and consuming from: activemq://queue:JMS.SAMPLE.REQ
+2019-04-09 11:07:02,287 | INFO | DefaultCamelContext.java 3186 | Total 1 routes, of which 1 are started
+2019-04-09 11:07:02,289 | INFO | DefaultCamelContext.java 3197 | Apache Camel 2.23.1 (CamelContext: camel-1) started in 0.808 seconds
+2019-04-09 11:07:07,290 | INFO | DefaultCamelContext.java 3496 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutting down
+2019-04-09 11:07:07,291 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2019-04-09 11:07:07,322 | INFO | TransportConnector.java 307 | Connector vm://localhost Stopped
+2019-04-09 11:07:07,323 | INFO | BrokerService.java 605 | ActiveMQ Message Broker (localhost, ID:FBDLXPS15-54430-1554793622128-0:1) is shutting down
+2019-04-09 11:07:07,328 | INFO | BrokerService.java 676 | ActiveMQ JMS Message Broker (localhost, ID:FBDLXPS15-54430-1554793622128-0:1) stopped
+2019-04-09 11:07:07,329 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: activemq://queue:JMS.SAMPLE.REQ
+2019-04-09 11:07:07,329 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2019-04-09 11:07:07,340 | INFO | DefaultCamelContext.java 3596 | Apache Camel 2.23.1 (CamelContext: camel-1) uptime 5.860 seconds
+2019-04-09 11:07:07,340 | INFO | DefaultCamelContext.java 3597 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutdown in 0.050 seconds
+2019-04-09 11:09:00,009 | INFO | DefaultCamelContext.java 3138 | Apache Camel 2.23.1 (CamelContext: camel-1) is starting
+2019-04-09 11:09:00,012 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2019-04-09 11:09:00,256 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 195, classpath: 4)
+2019-04-09 11:09:00,381 | INFO | DefaultCamelContext.java 3465 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-04-09 11:09:00,710 | INFO | BrokerService.java 521 | Using Persistence Adapter: MemoryPersistenceAdapter
+2019-04-09 11:09:00,711 | INFO | BrokerService.java 799 | ActiveMQ 5.6.0 JMS Message Broker (localhost) is starting
+2019-04-09 11:09:00,712 | INFO | BrokerService.java 801 | For help or more information please see: http://activemq.apache.org/
+2019-04-09 11:09:00,751 | INFO | ManagementContext.java 101 | JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2019-04-09 11:09:00,882 | INFO | BrokerService.java 564 | ActiveMQ JMS Message Broker (localhost, ID:FBDLXPS15-54523-1554793740727-0:1) started
+2019-04-09 11:09:00,890 | INFO | TransportConnector.java 265 | Connector vm://localhost Started
+2019-04-09 11:09:00,928 | INFO | DefaultCamelContext.java 4034 | Route: route1 started and consuming from: activemq://JMS.SAMPLE.REQ
+2019-04-09 11:09:00,928 | INFO | DefaultCamelContext.java 3186 | Total 1 routes, of which 1 are started
+2019-04-09 11:09:00,929 | INFO | DefaultCamelContext.java 3197 | Apache Camel 2.23.1 (CamelContext: camel-1) started in 0.925 seconds
+2019-04-09 11:09:05,931 | INFO | DefaultCamelContext.java 3496 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutting down
+2019-04-09 11:09:05,931 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2019-04-09 11:09:05,963 | INFO | TransportConnector.java 307 | Connector vm://localhost Stopped
+2019-04-09 11:09:05,965 | INFO | BrokerService.java 605 | ActiveMQ Message Broker (localhost, ID:FBDLXPS15-54523-1554793740727-0:1) is shutting down
+2019-04-09 11:09:05,971 | INFO | BrokerService.java 676 | ActiveMQ JMS Message Broker (localhost, ID:FBDLXPS15-54523-1554793740727-0:1) stopped
+2019-04-09 11:09:05,972 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: activemq://JMS.SAMPLE.REQ
+2019-04-09 11:09:05,973 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2019-04-09 11:09:05,982 | INFO | DefaultCamelContext.java 3596 | Apache Camel 2.23.1 (CamelContext: camel-1) uptime 5.979 seconds
+2019-04-09 11:09:05,982 | INFO | DefaultCamelContext.java 3597 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutdown in 0.051 seconds
+2019-04-09 11:09:31,672 | DEBUG | DefaultCamelContext.java 1020 | Adding routes from builder: Routes: []
+2019-04-09 11:09:31,706 | DEBUG | LRUCacheFactory.java 65 | Warming up LRUCache ...
+2019-04-09 11:09:31,739 | DEBUG | LRUCacheFactory.java 67 | Warming up LRUCache complete in 33 millis
+2019-04-09 11:09:31,748 | INFO | DefaultCamelContext.java 3138 | Apache Camel 2.23.1 (CamelContext: camel-1) is starting
+2019-04-09 11:09:31,749 | DEBUG | DefaultCamelContext.java 3297 | Using ClassResolver=org.apache.camel.impl.DefaultClassResolver@73ee04c8, PackageScanClassResolver=org.apache.camel.impl.DefaultPackageScanClassResolver@7671cb68, ApplicationContextClassLoader=null, RouteController=org.apache.camel.impl.DefaultRouteController@49dc7102
+2019-04-09 11:09:31,751 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2019-04-09 11:09:31,816 | DEBUG | DefaultManagementAgent.java 397 | Starting JMX agent on server: com.sun.jmx.mbeanserver.JmxMBeanServer@3a44431a
+2019-04-09 11:09:31,884 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=context,name="camel-1"
+2019-04-09 11:09:31,885 | DEBUG | TimerListenerManager.java 115 | Added TimerListener: org.apache.camel.management.mbean.ManagedCamelContext@78a773fd
+2019-04-09 11:09:31,885 | DEBUG | DefaultManagementLifecycleStrategy.java 282 | Registering 1 pre registered services
+2019-04-09 11:09:31,894 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=components,name="activemq"
+2019-04-09 11:09:31,895 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=health,name="camel-1"
+2019-04-09 11:09:31,896 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=routecontrollers,name="camel-1"
+2019-04-09 11:09:31,936 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultTypeConverter
+2019-04-09 11:09:31,943 | DEBUG | AnnotationTypeConverterLoader.java 122 | Found 3 packages with 19 @Converter classes to load
+2019-04-09 11:09:31,966 | DEBUG | AnnotationTypeConverterLoader.java 219 | Loading file META-INF/services/org/apache/camel/TypeConverter to retrieve list of packages, from url: jar:file:/C:/Users/furqanbaqai/.m2/repository/org/apache/camel/camel-core/2.23.1/camel-core-2.23.1.jar!/META-INF/services/org/apache/camel/TypeConverter
+2019-04-09 11:09:31,968 | DEBUG | AnnotationTypeConverterLoader.java 219 | Loading file META-INF/services/org/apache/camel/TypeConverter to retrieve list of packages, from url: jar:file:/C:/Users/furqanbaqai/.m2/repository/org/apache/camel/camel-spring/2.23.1/camel-spring-2.23.1.jar!/META-INF/services/org/apache/camel/TypeConverter
+2019-04-09 11:09:31,968 | DEBUG | AnnotationTypeConverterLoader.java 219 | Loading file META-INF/services/org/apache/camel/TypeConverter to retrieve list of packages, from url: jar:file:/C:/Users/furqanbaqai/.m2/repository/org/apache/activemq/activemq-camel/5.6.0/activemq-camel-5.6.0.jar!/META-INF/services/org/apache/camel/TypeConverter
+2019-04-09 11:09:31,972 | DEBUG | AnnotationTypeConverterLoader.java 112 | Loaded 3 @Converter classes
+2019-04-09 11:09:31,978 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 195, classpath: 4)
+2019-04-09 11:09:31,979 | DEBUG | ResolverHelper.java 143 | Lookup Language with name simple in registry. Found: null
+2019-04-09 11:09:31,980 | DEBUG | ResolverHelper.java 143 | Lookup Language with name simple-language in registry. Found: null
+2019-04-09 11:09:31,985 | DEBUG | SimpleLanguage.java 127 | Simple language predicate/expression cache size: 1000
+2019-04-09 11:09:31,989 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultEndpointRegistry
+2019-04-09 11:09:31,991 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultExecutorServiceManager
+2019-04-09 11:09:31,991 | DEBUG | DefaultServicePool.java 106 | Starting service pool: org.apache.camel.impl.SharedProducerServicePool@4b14918a
+2019-04-09 11:09:31,991 | DEBUG | DefaultServicePool.java 106 | Starting service pool: org.apache.camel.impl.SharedPollingConsumerServicePool@6d1ef78d
+2019-04-09 11:09:31,994 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultInflightRepository
+2019-04-09 11:09:31,998 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultAsyncProcessorAwaitManager
+2019-04-09 11:09:31,999 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultShutdownStrategy
+2019-04-09 11:09:32,001 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultRestRegistry
+2019-04-09 11:09:32,005 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultRuntimeCamelCatalog
+2019-04-09 11:09:32,008 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultTransformerRegistry
+2019-04-09 11:09:32,012 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultValidatorRegistry
+2019-04-09 11:09:32,020 | DEBUG | DefaultComponent.java 124 | Creating endpoint uri=[activemq://JMS.SAMPLE.REQ], path=[JMS.SAMPLE.REQ]
+2019-04-09 11:09:32,025 | DEBUG | DefaultCamelContext.java 710 | activemq://JMS.SAMPLE.REQ converted to endpoint: activemq://JMS.SAMPLE.REQ by component: org.apache.activemq.camel.component.ActiveMQComponent@30b19518
+2019-04-09 11:09:32,045 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=endpoints,name="activemq://JMS.SAMPLE.REQ"
+2019-04-09 11:09:32,055 | DEBUG | DefaultCamelContext.java 499 | Using ComponentResolver: org.apache.camel.impl.DefaultComponentResolver@3a3e4aff to resolve component with name: file
+2019-04-09 11:09:32,055 | DEBUG | ResolverHelper.java 143 | Lookup Component with name file in registry. Found: null
+2019-04-09 11:09:32,055 | DEBUG | ResolverHelper.java 143 | Lookup Component with name file-component in registry. Found: null
+2019-04-09 11:09:32,057 | DEBUG | DefaultComponentResolver.java 68 | Found component: file via type: org.apache.camel.component.file.FileComponent via: META-INF/services/org/apache/camel/component/file
+2019-04-09 11:09:32,063 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=components,name="file"
+2019-04-09 11:09:32,063 | DEBUG | DefaultComponent.java 266 | Cannot resolve property placeholders on component: org.apache.camel.component.file.FileComponent@68b6f0d6 as PropertiesComponent is not in use
+2019-04-09 11:09:32,064 | DEBUG | DefaultComponent.java 124 | Creating endpoint uri=[file://data/output?fileName=message.txt], path=[data/output]
+2019-04-09 11:09:32,073 | DEBUG | ResolverHelper.java 143 | Lookup Language with name constant in registry. Found: null
+2019-04-09 11:09:32,073 | DEBUG | ResolverHelper.java 143 | Lookup Language with name constant-language in registry. Found: null
+2019-04-09 11:09:32,077 | DEBUG | DefaultCamelContext.java 710 | file://data/output?fileName=message.txt converted to endpoint: file://data/output?fileName=message.txt by component: org.apache.camel.component.file.FileComponent@68b6f0d6
+2019-04-09 11:09:32,078 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=endpoints,name="file://data/output\?fileName=message.txt"
+2019-04-09 11:09:32,081 | DEBUG | DefaultChannel.java 203 | Initialize channel for target: 'To[file:data/output?fileName=message.txt]'
+2019-04-09 11:09:32,086 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=tracer,name=BacklogTracer
+2019-04-09 11:09:32,095 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=tracer,name=BacklogDebugger
+2019-04-09 11:09:32,112 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=errorhandlers,name="DefaultErrorHandlerBuilder(ref:CamelDefaultErrorHandlerBuilder)"
+2019-04-09 11:09:32,119 | INFO | DefaultCamelContext.java 3465 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-04-09 11:09:32,123 | DEBUG | HeadersMapFactoryResolver.java 63 | Creating default HeadersMapFactory
+2019-04-09 11:09:32,124 | DEBUG | DefaultCamelContext.java 3478 | Using HeadersMapFactory: org.apache.camel.impl.DefaultHeadersMapFactory@7c351808
+2019-04-09 11:09:32,125 | DEBUG | DefaultCamelContext.java 3952 | Warming up route id: route1 having autoStartup=true
+2019-04-09 11:09:32,126 | DEBUG | RouteService.java 168 | Starting services on route: route1
+2019-04-09 11:09:32,165 | DEBUG | JmsEndpoint.java 190 | Using destinationName: JMS.SAMPLE.REQ on listenerContainer: org.apache.camel.component.jms.DefaultJmsMessageListenerContainer@32cb636e
+2019-04-09 11:09:32,172 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=threadpools,name="JmsConsumer(0x2f94c4db)"
+2019-04-09 11:09:32,173 | DEBUG | DefaultExecutorServiceManager.java 218 | Created new CachedThreadPool for source: Consumer[activemq://JMS.SAMPLE.REQ] with name: JmsConsumer[JMS.SAMPLE.REQ]. -> java.util.concurrent.ThreadPoolExecutor@593e824f[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+2019-04-09 11:09:32,174 | DEBUG | RouteService.java 366 | Starting child service on route: route1 -> Channel[sendTo(file://data/output?fileName=message.txt)]
+2019-04-09 11:09:32,180 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=producers,name=GenericFileProducer(0x77307458)
+2019-04-09 11:09:32,181 | DEBUG | ProducerCache.java 592 | Adding to producer cache with key: file://data/output?fileName=message.txt for producer: Producer[file://data/output?fileName=message.txt]
+2019-04-09 11:09:32,182 | DEBUG | RouteService.java 366 | Starting child service on route: route1 -> sendTo(file://data/output?fileName=message.txt)
+2019-04-09 11:09:32,205 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=processors,name="to1"
+2019-04-09 11:09:32,206 | DEBUG | RouteService.java 366 | Starting child service on route: route1 -> Channel[sendTo(file://data/output?fileName=message.txt)]
+2019-04-09 11:09:32,214 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=routes,name="route1"
+2019-04-09 11:09:32,215 | DEBUG | TimerListenerManager.java 115 | Added TimerListener: org.apache.camel.management.mbean.ManagedSuspendableRoute@15a902e7
+2019-04-09 11:09:32,215 | DEBUG | DefaultManagementLifecycleStrategy.java 987 | Load performance statistics disabled
+2019-04-09 11:09:32,215 | DEBUG | DefaultProducer.java 77 | Starting producer: Producer[file://data/output?fileName=message.txt]
+2019-04-09 11:09:32,216 | DEBUG | DefaultCamelContext.java 4010 | Route: route1 >>> EventDrivenConsumerRoute[activemq://JMS.SAMPLE.REQ -> Channel[sendTo(file://data/output?fileName=message.txt)]]
+2019-04-09 11:09:32,216 | DEBUG | DefaultCamelContext.java 4014 | Starting consumer (order: 1000) on route: route1
+2019-04-09 11:09:32,222 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=consumers,name=JmsConsumer(0x2f94c4db)
+2019-04-09 11:09:32,223 | DEBUG | DefaultConsumer.java 144 | Starting consumer: Consumer[activemq://JMS.SAMPLE.REQ]
+2019-04-09 11:09:32,410 | DEBUG | ManagementContext.java 447 | Probably not using JRE 1.4: mx4j.tools.naming.NamingService
+2019-04-09 11:09:32,415 | DEBUG | ManagementContext.java 94 | Starting JMXConnectorServer...
+2019-04-09 11:09:32,431 | INFO | BrokerService.java 521 | Using Persistence Adapter: MemoryPersistenceAdapter
+2019-04-09 11:09:32,433 | INFO | BrokerService.java 799 | ActiveMQ 5.6.0 JMS Message Broker (localhost) is starting
+2019-04-09 11:09:32,433 | INFO | BrokerService.java 801 | For help or more information please see: http://activemq.apache.org/
+2019-04-09 11:09:32,476 | INFO | ManagementContext.java 101 | JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2019-04-09 11:09:32,565 | INFO | BrokerService.java 564 | ActiveMQ JMS Message Broker (localhost, ID:FBDLXPS15-54538-1554793772448-0:1) started
+2019-04-09 11:09:32,569 | DEBUG | VMTransportFactory.java 210 | binding to broker: localhost
+2019-04-09 11:09:32,575 | INFO | TransportConnector.java 265 | Connector vm://localhost Started
+2019-04-09 11:09:32,584 | DEBUG | AbstractJmsListeningContainer.java 380 | Established shared JMS Connection
+2019-04-09 11:09:32,586 | DEBUG | AbstractJmsListeningContainer.java 547 | Resumed paused task: org.springframework.jms.listener.DefaultMessageListenerContainer$AsyncMessageListenerInvoker@6bc248ed
+2019-04-09 11:09:32,594 | DEBUG | TransportConnection.java 688 | Setting up new connection id: ID:FBDLXPS15-54538-1554793772448-3:1, address: vm://localhost#0, info: ConnectionInfo {commandId = 1, responseRequired = true, connectionId = ID:FBDLXPS15-54538-1554793772448-3:1, clientId = ID:FBDLXPS15-54538-1554793772448-2:1, clientIp = null, userName = null, password = *****, brokerPath = null, brokerMasterConnector = false, manageable = true, clientMaster = true, faultTolerant = false, failoverReconnect = false}
+2019-04-09 11:09:32,598 | DEBUG | AbstractRegion.java 135 | localhost adding destination: topic://ActiveMQ.Advisory.Connection
+2019-04-09 11:09:32,610 | DEBUG | AbstractRegion.java 260 | localhost adding consumer: ID:FBDLXPS15-54538-1554793772448-3:1:-1:1 for destination: ActiveMQ.Advisory.TempQueue,ActiveMQ.Advisory.TempTopic
+2019-04-09 11:09:32,617 | DEBUG | JmsConsumer.java 110 | Started listener container org.apache.camel.component.jms.DefaultJmsMessageListenerContainer@32cb636e on destination JMS.SAMPLE.REQ
+2019-04-09 11:09:32,617 | INFO | DefaultCamelContext.java 4034 | Route: route1 started and consuming from: activemq://JMS.SAMPLE.REQ
+2019-04-09 11:09:32,617 | INFO | DefaultCamelContext.java 3186 | Total 1 routes, of which 1 are started
+2019-04-09 11:09:32,619 | INFO | DefaultCamelContext.java 3197 | Apache Camel 2.23.1 (CamelContext: camel-1) started in 0.872 seconds
+2019-04-09 11:09:32,629 | DEBUG | AbstractRegion.java 260 | localhost adding consumer: ID:FBDLXPS15-54538-1554793772448-3:1:1:1 for destination: queue://JMS.SAMPLE.REQ
+2019-04-09 11:09:32,629 | DEBUG | AbstractRegion.java 135 | localhost adding destination: queue://JMS.SAMPLE.REQ
+2019-04-09 11:09:32,640 | DEBUG | Queue.java 1741 | JMS.SAMPLE.REQ toPageIn: 0, Inflight: 0, pagedInMessages.size 0, enqueueCount: 0, dequeueCount: 0
+2019-04-09 11:09:32,641 | DEBUG | AbstractRegion.java 135 | localhost adding destination: topic://ActiveMQ.Advisory.Queue
+2019-04-09 11:09:32,644 | DEBUG | Queue.java 410 | queue://JMS.SAMPLE.REQ add sub: QueueSubscription: consumer=ID:FBDLXPS15-54538-1554793772448-3:1:1:1, destinations=0, dispatched=0, delivered=0, pending=0, dequeues: 0, dispatched: 0, inflight: 0
+2019-04-09 11:09:32,645 | DEBUG | AbstractRegion.java 135 | localhost adding destination: topic://ActiveMQ.Advisory.Consumer.Queue.JMS.SAMPLE.REQ
+2019-04-09 11:09:37,621 | INFO | DefaultCamelContext.java 3496 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutting down
+2019-04-09 11:09:37,621 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2019-04-09 11:09:37,622 | DEBUG | DefaultExecutorServiceManager.java 192 | Created new ThreadPool for source: org.apache.camel.impl.DefaultShutdownStrategy@294bdeb4 with name: ShutdownTask. -> org.apache.camel.util.concurrent.RejectableThreadPoolExecutor@7d151a[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0][ShutdownTask]
+2019-04-09 11:09:37,623 | DEBUG | DefaultShutdownStrategy.java 531 | There are 1 routes to shutdown
+2019-04-09 11:09:37,624 | DEBUG | DefaultJmsMessageListenerContainer.java 125 | Stopping listenerContainer: org.apache.camel.component.jms.DefaultJmsMessageListenerContainer@32cb636e with cacheLevel: 3 and sharedConnectionEnabled: true
+2019-04-09 11:09:37,624 | DEBUG | DefaultJmsMessageListenerContainer.java 154 | Stopping shared connection on listenerContainer: org.apache.camel.component.jms.DefaultJmsMessageListenerContainer@32cb636e
+2019-04-09 11:09:37,624 | DEBUG | DefaultShutdownStrategy.java 575 | Route: route1 suspended and shutdown deferred, was consuming from: activemq://JMS.SAMPLE.REQ
+2019-04-09 11:09:37,625 | DEBUG | DefaultJmsMessageListenerContainer.java 125 | Stopping listenerContainer: org.apache.camel.component.jms.DefaultJmsMessageListenerContainer@32cb636e with cacheLevel: 3 and sharedConnectionEnabled: true
+2019-04-09 11:09:37,625 | DEBUG | DefaultJmsMessageListenerContainer.java 154 | Stopping shared connection on listenerContainer: org.apache.camel.component.jms.DefaultJmsMessageListenerContainer@32cb636e
+2019-04-09 11:09:37,625 | DEBUG | DefaultJmsMessageListenerContainer.java 139 | Destroying listenerContainer: org.apache.camel.component.jms.DefaultJmsMessageListenerContainer@32cb636e with cacheLevel: 3 and sharedConnectionEnabled: true
+2019-04-09 11:09:37,625 | DEBUG | AbstractJmsListeningContainer.java 221 | Shutting down JMS listener container
+2019-04-09 11:09:37,625 | DEBUG | DefaultMessageListenerContainer.java 563 | Waiting for shutdown of message listener invokers
+2019-04-09 11:09:37,625 | DEBUG | DefaultMessageListenerContainer.java 579 | Still waiting for shutdown of 1 message listener invokers (iteration 0)
+2019-04-09 11:09:37,653 | DEBUG | DefaultMessageListenerContainer.java 1125 | Lowered scheduled invoker count: 0
+2019-04-09 11:09:37,655 | DEBUG | ActiveMQMessageConsumer.java 679 | remove: ID:FBDLXPS15-54538-1554793772448-3:1:1:1, lastDeliveredSequenceId:0
+2019-04-09 11:09:37,655 | DEBUG | AbstractRegion.java 362 | localhost removing consumer: ID:FBDLXPS15-54538-1554793772448-3:1:1:1 for destination: queue://JMS.SAMPLE.REQ
+2019-04-09 11:09:37,657 | DEBUG | Queue.java 486 | queue://JMS.SAMPLE.REQ remove sub: QueueSubscription: consumer=ID:FBDLXPS15-54538-1554793772448-3:1:1:1, destinations=1, dispatched=0, delivered=0, pending=0, lastDeliveredSeqId: 0, dequeues: 0, dispatched: 0, inflight: 0
+2019-04-09 11:09:37,659 | DEBUG | AbstractRegion.java 362 | localhost removing consumer: ID:FBDLXPS15-54538-1554793772448-3:1:-1:1 for destination: ActiveMQ.Advisory.TempQueue,ActiveMQ.Advisory.TempTopic
+2019-04-09 11:09:37,659 | DEBUG | TransportConnection.java 741 | remove connection id: ID:FBDLXPS15-54538-1554793772448-3:1
+2019-04-09 11:09:37,661 | DEBUG | VMTransportFactory.java 229 | Shutting down VM connectors for broker: localhost
+2019-04-09 11:09:37,661 | DEBUG | TransportConnection.java 1018 | Stopping connection: vm://localhost#0
+2019-04-09 11:09:37,662 | DEBUG | TransportConnection.java 1034 | Stopped transport: vm://localhost#0
+2019-04-09 11:09:37,662 | DEBUG | TransportConnection.java 1074 | Connection Stopped: vm://localhost#0
+2019-04-09 11:09:37,662 | INFO | TransportConnector.java 307 | Connector vm://localhost Stopped
+2019-04-09 11:09:37,662 | INFO | BrokerService.java 605 | ActiveMQ Message Broker (localhost, ID:FBDLXPS15-54538-1554793772448-0:1) is shutting down
+2019-04-09 11:09:37,667 | INFO | BrokerService.java 676 | ActiveMQ JMS Message Broker (localhost, ID:FBDLXPS15-54538-1554793772448-0:1) stopped
+2019-04-09 11:09:37,668 | DEBUG | DefaultExecutorServiceManager.java 364 | Forcing shutdown of ExecutorService: java.util.concurrent.ThreadPoolExecutor@593e824f[Running, pool size = 1, active threads = 0, queued tasks = 0, completed tasks = 1]
+2019-04-09 11:09:37,668 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=threadpools,name="JmsConsumer(0x2f94c4db)"
+2019-04-09 11:09:37,668 | DEBUG | DefaultConsumer.java 139 | Stopping consumer: Consumer[activemq://JMS.SAMPLE.REQ]
+2019-04-09 11:09:37,668 | DEBUG | DefaultProducer.java 86 | Stopping producer: Producer[file://data/output?fileName=message.txt]
+2019-04-09 11:09:37,669 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=producers,name=GenericFileProducer(0x77307458)
+2019-04-09 11:09:37,669 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: activemq://JMS.SAMPLE.REQ
+2019-04-09 11:09:37,669 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2019-04-09 11:09:37,670 | DEBUG | DefaultAsyncProcessorAwaitManager.java 212 | Shutting down with no inflight threads.
+2019-04-09 11:09:37,671 | DEBUG | TimerListenerManager.java 128 | Removed TimerListener: org.apache.camel.management.mbean.ManagedSuspendableRoute@15a902e7
+2019-04-09 11:09:37,671 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=routes,name="route1"
+2019-04-09 11:09:37,671 | DEBUG | RouteService.java 253 | Stopping services on route: route1
+2019-04-09 11:09:37,671 | DEBUG | RouteService.java 377 | Shutting down child service on route: route1 -> Consumer[activemq://JMS.SAMPLE.REQ]
+2019-04-09 11:09:37,672 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=consumers,name=JmsConsumer(0x2f94c4db)
+2019-04-09 11:09:37,672 | DEBUG | RouteService.java 377 | Shutting down child service on route: route1 -> Channel[sendTo(file://data/output?fileName=message.txt)]
+2019-04-09 11:09:37,672 | DEBUG | RouteService.java 377 | Shutting down child service on route: route1 -> sendTo(file://data/output?fileName=message.txt)
+2019-04-09 11:09:37,672 | DEBUG | RouteService.java 377 | Shutting down child service on route: route1 -> Channel[sendTo(file://data/output?fileName=message.txt)]
+2019-04-09 11:09:37,672 | DEBUG | RouteService.java 289 | Shutting down services on route: route1
+2019-04-09 11:09:37,673 | DEBUG | SimpleLanguage.java 139 | Clearing simple language predicate cache[size=0, hits=0, misses=0, evicted=0]
+2019-04-09 11:09:37,673 | DEBUG | SimpleLanguage.java 146 | Clearing simple language expression cache[size=0, hits=0, misses=0, evicted=0]
+2019-04-09 11:09:37,674 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=routecontrollers,name="camel-1"
+2019-04-09 11:09:37,674 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=health,name="camel-1"
+2019-04-09 11:09:37,674 | DEBUG | TimerListenerManager.java 128 | Removed TimerListener: org.apache.camel.management.mbean.ManagedCamelContext@667e34b1
+2019-04-09 11:09:37,674 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=context,name="camel-1"
+2019-04-09 11:09:37,674 | DEBUG | DefaultExecutorServiceManager.java 364 | Forcing shutdown of ExecutorService: org.apache.camel.util.concurrent.RejectableThreadPoolExecutor@7d151a[Running, pool size = 1, active threads = 0, queued tasks = 0, completed tasks = 1][ShutdownTask]
+2019-04-09 11:09:37,674 | DEBUG | DefaultInflightRepository.java 183 | Shutting down with no inflight exchanges.
+2019-04-09 11:09:37,674 | DEBUG | DefaultServicePool.java 110 | Stopping service pool: org.apache.camel.impl.SharedPollingConsumerServicePool@6d1ef78d
+2019-04-09 11:09:37,675 | DEBUG | DefaultServicePool.java 110 | Stopping service pool: org.apache.camel.impl.SharedProducerServicePool@4b14918a
+2019-04-09 11:09:37,675 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=endpoints,name="file://data/output\?fileName=message.txt"
+2019-04-09 11:09:37,675 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultEndpointRegistry
+2019-04-09 11:09:37,675 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultRuntimeCamelCatalog
+2019-04-09 11:09:37,675 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=components,name="file"
+2019-04-09 11:09:37,675 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultValidatorRegistry
+2019-04-09 11:09:37,676 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultInflightRepository
+2019-04-09 11:09:37,676 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultTypeConverter
+2019-04-09 11:09:37,676 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultExecutorServiceManager
+2019-04-09 11:09:37,676 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=components,name="activemq"
+2019-04-09 11:09:37,676 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=errorhandlers,name="DefaultErrorHandlerBuilder(ref:CamelDefaultErrorHandlerBuilder)"
+2019-04-09 11:09:37,676 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=processors,name="to1"
+2019-04-09 11:09:37,676 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=tracer,name=BacklogTracer
+2019-04-09 11:09:37,676 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=endpoints,name="activemq://JMS.SAMPLE.REQ"
+2019-04-09 11:09:37,676 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultTransformerRegistry
+2019-04-09 11:09:37,677 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultAsyncProcessorAwaitManager
+2019-04-09 11:09:37,677 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=tracer,name=BacklogDebugger
+2019-04-09 11:09:37,677 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultShutdownStrategy
+2019-04-09 11:09:37,677 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultRestRegistry
+2019-04-09 11:09:37,677 | DEBUG | MBeanInfoAssembler.java 82 | Clearing cache[size=24, hits=5, misses=24, evicted=0]
+2019-04-09 11:09:37,683 | DEBUG | IntrospectionSupport.java 137 | Clearing cache[size=82, hits=86, misses=82, evicted=0]
+2019-04-09 11:09:37,684 | INFO | DefaultCamelContext.java 3596 | Apache Camel 2.23.1 (CamelContext: camel-1) uptime 5.938 seconds
+2019-04-09 11:09:37,684 | INFO | DefaultCamelContext.java 3597 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutdown in 0.063 seconds
+2019-04-09 11:11:53,940 | DEBUG | DefaultCamelContext.java 1020 | Adding routes from builder: Routes: []
+2019-04-09 11:11:53,971 | DEBUG | LRUCacheFactory.java 65 | Warming up LRUCache ...
+2019-04-09 11:11:53,999 | DEBUG | LRUCacheFactory.java 67 | Warming up LRUCache complete in 28 millis
+2019-04-09 11:11:54,005 | INFO | DefaultCamelContext.java 3138 | Apache Camel 2.23.1 (CamelContext: camel-1) is starting
+2019-04-09 11:11:54,006 | DEBUG | DefaultCamelContext.java 3297 | Using ClassResolver=org.apache.camel.impl.DefaultClassResolver@2abf4075, PackageScanClassResolver=org.apache.camel.impl.DefaultPackageScanClassResolver@770d3326, ApplicationContextClassLoader=null, RouteController=org.apache.camel.impl.DefaultRouteController@4cc8eb05
+2019-04-09 11:11:54,008 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2019-04-09 11:11:54,070 | DEBUG | DefaultManagementAgent.java 397 | Starting JMX agent on server: com.sun.jmx.mbeanserver.JmxMBeanServer@485966cc
+2019-04-09 11:11:54,131 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=context,name="camel-1"
+2019-04-09 11:11:54,132 | DEBUG | TimerListenerManager.java 115 | Added TimerListener: org.apache.camel.management.mbean.ManagedCamelContext@a307a8c
+2019-04-09 11:11:54,132 | DEBUG | DefaultManagementLifecycleStrategy.java 282 | Registering 1 pre registered services
+2019-04-09 11:11:54,135 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=components,name="activemq"
+2019-04-09 11:11:54,137 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=health,name="camel-1"
+2019-04-09 11:11:54,138 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=routecontrollers,name="camel-1"
+2019-04-09 11:11:54,177 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultTypeConverter
+2019-04-09 11:11:54,182 | DEBUG | AnnotationTypeConverterLoader.java 122 | Found 3 packages with 19 @Converter classes to load
+2019-04-09 11:11:54,201 | DEBUG | AnnotationTypeConverterLoader.java 219 | Loading file META-INF/services/org/apache/camel/TypeConverter to retrieve list of packages, from url: jar:file:/C:/Users/furqanbaqai/.m2/repository/org/apache/camel/camel-core/2.23.1/camel-core-2.23.1.jar!/META-INF/services/org/apache/camel/TypeConverter
+2019-04-09 11:11:54,202 | DEBUG | AnnotationTypeConverterLoader.java 219 | Loading file META-INF/services/org/apache/camel/TypeConverter to retrieve list of packages, from url: jar:file:/C:/Users/furqanbaqai/.m2/repository/org/apache/camel/camel-spring/2.23.1/camel-spring-2.23.1.jar!/META-INF/services/org/apache/camel/TypeConverter
+2019-04-09 11:11:54,203 | DEBUG | AnnotationTypeConverterLoader.java 219 | Loading file META-INF/services/org/apache/camel/TypeConverter to retrieve list of packages, from url: jar:file:/C:/Users/furqanbaqai/.m2/repository/org/apache/activemq/activemq-camel/5.6.0/activemq-camel-5.6.0.jar!/META-INF/services/org/apache/camel/TypeConverter
+2019-04-09 11:11:54,204 | DEBUG | AnnotationTypeConverterLoader.java 112 | Loaded 3 @Converter classes
+2019-04-09 11:11:54,210 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 195, classpath: 4)
+2019-04-09 11:11:54,211 | DEBUG | ResolverHelper.java 143 | Lookup Language with name simple in registry. Found: null
+2019-04-09 11:11:54,212 | DEBUG | ResolverHelper.java 143 | Lookup Language with name simple-language in registry. Found: null
+2019-04-09 11:11:54,217 | DEBUG | SimpleLanguage.java 127 | Simple language predicate/expression cache size: 1000
+2019-04-09 11:11:54,221 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultEndpointRegistry
+2019-04-09 11:11:54,222 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultExecutorServiceManager
+2019-04-09 11:11:54,223 | DEBUG | DefaultServicePool.java 106 | Starting service pool: org.apache.camel.impl.SharedProducerServicePool@4f25b795
+2019-04-09 11:11:54,223 | DEBUG | DefaultServicePool.java 106 | Starting service pool: org.apache.camel.impl.SharedPollingConsumerServicePool@6fb365ed
+2019-04-09 11:11:54,225 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultInflightRepository
+2019-04-09 11:11:54,228 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultAsyncProcessorAwaitManager
+2019-04-09 11:11:54,229 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultShutdownStrategy
+2019-04-09 11:11:54,232 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultRestRegistry
+2019-04-09 11:11:54,235 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultRuntimeCamelCatalog
+2019-04-09 11:11:54,238 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultTransformerRegistry
+2019-04-09 11:11:54,242 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultValidatorRegistry
+2019-04-09 11:11:54,246 | DEBUG | DefaultComponent.java 124 | Creating endpoint uri=[activemq://JMS.SAMPLE.REQ], path=[JMS.SAMPLE.REQ]
+2019-04-09 11:11:54,249 | DEBUG | DefaultCamelContext.java 710 | activemq://JMS.SAMPLE.REQ converted to endpoint: activemq://JMS.SAMPLE.REQ by component: org.apache.activemq.camel.component.ActiveMQComponent@ff684e1
+2019-04-09 11:11:54,265 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=endpoints,name="activemq://JMS.SAMPLE.REQ"
+2019-04-09 11:11:54,272 | DEBUG | DefaultComponent.java 124 | Creating endpoint uri=[activemq://JMS.SAMPLE.RLY], path=[JMS.SAMPLE.RLY]
+2019-04-09 11:11:54,273 | DEBUG | DefaultCamelContext.java 710 | activemq://JMS.SAMPLE.RLY converted to endpoint: activemq://JMS.SAMPLE.RLY by component: org.apache.activemq.camel.component.ActiveMQComponent@ff684e1
+2019-04-09 11:11:54,279 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=endpoints,name="activemq://JMS.SAMPLE.RLY"
+2019-04-09 11:11:54,282 | DEBUG | DefaultChannel.java 203 | Initialize channel for target: 'To[activemq:JMS.SAMPLE.RLY]'
+2019-04-09 11:11:54,285 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=tracer,name=BacklogTracer
+2019-04-09 11:11:54,290 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=tracer,name=BacklogDebugger
+2019-04-09 11:11:54,301 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=errorhandlers,name="DefaultErrorHandlerBuilder(ref:CamelDefaultErrorHandlerBuilder)"
+2019-04-09 11:11:54,308 | INFO | DefaultCamelContext.java 3465 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-04-09 11:11:54,310 | DEBUG | HeadersMapFactoryResolver.java 63 | Creating default HeadersMapFactory
+2019-04-09 11:11:54,310 | DEBUG | DefaultCamelContext.java 3478 | Using HeadersMapFactory: org.apache.camel.impl.DefaultHeadersMapFactory@207ea13
+2019-04-09 11:11:54,311 | DEBUG | DefaultCamelContext.java 3952 | Warming up route id: route1 having autoStartup=true
+2019-04-09 11:11:54,311 | DEBUG | RouteService.java 168 | Starting services on route: route1
+2019-04-09 11:11:54,331 | DEBUG | JmsEndpoint.java 190 | Using destinationName: JMS.SAMPLE.REQ on listenerContainer: org.apache.camel.component.jms.DefaultJmsMessageListenerContainer@58bf8650
+2019-04-09 11:11:54,335 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=threadpools,name="JmsConsumer(0x1d7f7be7)"
+2019-04-09 11:11:54,336 | DEBUG | DefaultExecutorServiceManager.java 218 | Created new CachedThreadPool for source: Consumer[activemq://JMS.SAMPLE.REQ] with name: JmsConsumer[JMS.SAMPLE.REQ]. -> java.util.concurrent.ThreadPoolExecutor@42f3156d[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+2019-04-09 11:11:54,336 | DEBUG | RouteService.java 366 | Starting child service on route: route1 -> Channel[sendTo(activemq://JMS.SAMPLE.RLY)]
+2019-04-09 11:11:54,344 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=producers,name=JmsProducer(0x3a94964)
+2019-04-09 11:11:54,344 | DEBUG | ProducerCache.java 592 | Adding to producer cache with key: activemq://JMS.SAMPLE.RLY for producer: Producer[activemq://JMS.SAMPLE.RLY]
+2019-04-09 11:11:54,345 | DEBUG | RouteService.java 366 | Starting child service on route: route1 -> sendTo(activemq://JMS.SAMPLE.RLY)
+2019-04-09 11:11:54,362 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=processors,name="to1"
+2019-04-09 11:11:54,362 | DEBUG | RouteService.java 366 | Starting child service on route: route1 -> Channel[sendTo(activemq://JMS.SAMPLE.RLY)]
+2019-04-09 11:11:54,368 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=routes,name="route1"
+2019-04-09 11:11:54,368 | DEBUG | TimerListenerManager.java 115 | Added TimerListener: org.apache.camel.management.mbean.ManagedSuspendableRoute@768ccdc5
+2019-04-09 11:11:54,368 | DEBUG | DefaultManagementLifecycleStrategy.java 987 | Load performance statistics disabled
+2019-04-09 11:11:54,369 | DEBUG | DefaultProducer.java 77 | Starting producer: Producer[activemq://JMS.SAMPLE.RLY]
+2019-04-09 11:11:54,369 | DEBUG | DefaultCamelContext.java 4010 | Route: route1 >>> EventDrivenConsumerRoute[activemq://JMS.SAMPLE.REQ -> Channel[sendTo(activemq://JMS.SAMPLE.RLY)]]
+2019-04-09 11:11:54,370 | DEBUG | DefaultCamelContext.java 4014 | Starting consumer (order: 1000) on route: route1
+2019-04-09 11:11:54,374 | DEBUG | DefaultManagementAgent.java 472 | Registered MBean with ObjectName: org.apache.camel:context=camel-1,type=consumers,name=JmsConsumer(0x1d7f7be7)
+2019-04-09 11:11:54,375 | DEBUG | DefaultConsumer.java 144 | Starting consumer: Consumer[activemq://JMS.SAMPLE.REQ]
+2019-04-09 11:11:54,556 | DEBUG | ManagementContext.java 447 | Probably not using JRE 1.4: mx4j.tools.naming.NamingService
+2019-04-09 11:11:54,560 | DEBUG | ManagementContext.java 94 | Starting JMXConnectorServer...
+2019-04-09 11:11:54,573 | INFO | BrokerService.java 521 | Using Persistence Adapter: MemoryPersistenceAdapter
+2019-04-09 11:11:54,574 | INFO | BrokerService.java 799 | ActiveMQ 5.6.0 JMS Message Broker (localhost) is starting
+2019-04-09 11:11:54,574 | INFO | BrokerService.java 801 | For help or more information please see: http://activemq.apache.org/
+2019-04-09 11:11:54,614 | INFO | ManagementContext.java 101 | JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2019-04-09 11:11:54,702 | INFO | BrokerService.java 564 | ActiveMQ JMS Message Broker (localhost, ID:FBDLXPS15-54584-1554793914586-0:1) started
+2019-04-09 11:11:54,705 | DEBUG | VMTransportFactory.java 210 | binding to broker: localhost
+2019-04-09 11:11:54,707 | INFO | TransportConnector.java 265 | Connector vm://localhost Started
+2019-04-09 11:11:54,721 | DEBUG | AbstractJmsListeningContainer.java 380 | Established shared JMS Connection
+2019-04-09 11:11:54,721 | DEBUG | AbstractJmsListeningContainer.java 547 | Resumed paused task: org.springframework.jms.listener.DefaultMessageListenerContainer$AsyncMessageListenerInvoker@591e58fa
+2019-04-09 11:11:54,724 | DEBUG | TransportConnection.java 688 | Setting up new connection id: ID:FBDLXPS15-54584-1554793914586-3:1, address: vm://localhost#0, info: ConnectionInfo {commandId = 1, responseRequired = true, connectionId = ID:FBDLXPS15-54584-1554793914586-3:1, clientId = ID:FBDLXPS15-54584-1554793914586-2:1, clientIp = null, userName = null, password = *****, brokerPath = null, brokerMasterConnector = false, manageable = true, clientMaster = true, faultTolerant = false, failoverReconnect = false}
+2019-04-09 11:11:54,728 | DEBUG | AbstractRegion.java 135 | localhost adding destination: topic://ActiveMQ.Advisory.Connection
+2019-04-09 11:11:54,740 | DEBUG | AbstractRegion.java 260 | localhost adding consumer: ID:FBDLXPS15-54584-1554793914586-3:1:-1:1 for destination: ActiveMQ.Advisory.TempQueue,ActiveMQ.Advisory.TempTopic
+2019-04-09 11:11:54,745 | DEBUG | JmsConsumer.java 110 | Started listener container org.apache.camel.component.jms.DefaultJmsMessageListenerContainer@58bf8650 on destination JMS.SAMPLE.REQ
+2019-04-09 11:11:54,745 | INFO | DefaultCamelContext.java 4034 | Route: route1 started and consuming from: activemq://JMS.SAMPLE.REQ
+2019-04-09 11:11:54,745 | INFO | DefaultCamelContext.java 3186 | Total 1 routes, of which 1 are started
+2019-04-09 11:11:54,747 | INFO | DefaultCamelContext.java 3197 | Apache Camel 2.23.1 (CamelContext: camel-1) started in 0.743 seconds
+2019-04-09 11:11:54,755 | DEBUG | AbstractRegion.java 260 | localhost adding consumer: ID:FBDLXPS15-54584-1554793914586-3:1:1:1 for destination: queue://JMS.SAMPLE.REQ
+2019-04-09 11:11:54,756 | DEBUG | AbstractRegion.java 135 | localhost adding destination: queue://JMS.SAMPLE.REQ
+2019-04-09 11:11:54,765 | DEBUG | Queue.java 1741 | JMS.SAMPLE.REQ toPageIn: 0, Inflight: 0, pagedInMessages.size 0, enqueueCount: 0, dequeueCount: 0
+2019-04-09 11:11:54,766 | DEBUG | AbstractRegion.java 135 | localhost adding destination: topic://ActiveMQ.Advisory.Queue
+2019-04-09 11:11:54,769 | DEBUG | Queue.java 410 | queue://JMS.SAMPLE.REQ add sub: QueueSubscription: consumer=ID:FBDLXPS15-54584-1554793914586-3:1:1:1, destinations=0, dispatched=0, delivered=0, pending=0, dequeues: 0, dispatched: 0, inflight: 0
+2019-04-09 11:11:54,770 | DEBUG | AbstractRegion.java 135 | localhost adding destination: topic://ActiveMQ.Advisory.Consumer.Queue.JMS.SAMPLE.REQ
+2019-04-09 11:11:59,747 | INFO | DefaultCamelContext.java 3496 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutting down
+2019-04-09 11:11:59,749 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2019-04-09 11:11:59,751 | DEBUG | DefaultExecutorServiceManager.java 192 | Created new ThreadPool for source: org.apache.camel.impl.DefaultShutdownStrategy@7ea4d397 with name: ShutdownTask. -> org.apache.camel.util.concurrent.RejectableThreadPoolExecutor@240139e1[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0][ShutdownTask]
+2019-04-09 11:11:59,755 | DEBUG | DefaultShutdownStrategy.java 531 | There are 1 routes to shutdown
+2019-04-09 11:11:59,756 | DEBUG | DefaultJmsMessageListenerContainer.java 125 | Stopping listenerContainer: org.apache.camel.component.jms.DefaultJmsMessageListenerContainer@58bf8650 with cacheLevel: 3 and sharedConnectionEnabled: true
+2019-04-09 11:11:59,756 | DEBUG | DefaultJmsMessageListenerContainer.java 154 | Stopping shared connection on listenerContainer: org.apache.camel.component.jms.DefaultJmsMessageListenerContainer@58bf8650
+2019-04-09 11:11:59,757 | DEBUG | DefaultShutdownStrategy.java 575 | Route: route1 suspended and shutdown deferred, was consuming from: activemq://JMS.SAMPLE.REQ
+2019-04-09 11:11:59,757 | DEBUG | DefaultJmsMessageListenerContainer.java 125 | Stopping listenerContainer: org.apache.camel.component.jms.DefaultJmsMessageListenerContainer@58bf8650 with cacheLevel: 3 and sharedConnectionEnabled: true
+2019-04-09 11:11:59,757 | DEBUG | DefaultJmsMessageListenerContainer.java 154 | Stopping shared connection on listenerContainer: org.apache.camel.component.jms.DefaultJmsMessageListenerContainer@58bf8650
+2019-04-09 11:11:59,757 | DEBUG | DefaultJmsMessageListenerContainer.java 139 | Destroying listenerContainer: org.apache.camel.component.jms.DefaultJmsMessageListenerContainer@58bf8650 with cacheLevel: 3 and sharedConnectionEnabled: true
+2019-04-09 11:11:59,757 | DEBUG | AbstractJmsListeningContainer.java 221 | Shutting down JMS listener container
+2019-04-09 11:11:59,758 | DEBUG | DefaultMessageListenerContainer.java 563 | Waiting for shutdown of message listener invokers
+2019-04-09 11:11:59,758 | DEBUG | DefaultMessageListenerContainer.java 579 | Still waiting for shutdown of 1 message listener invokers (iteration 0)
+2019-04-09 11:11:59,783 | DEBUG | DefaultMessageListenerContainer.java 1125 | Lowered scheduled invoker count: 0
+2019-04-09 11:11:59,784 | DEBUG | ActiveMQMessageConsumer.java 679 | remove: ID:FBDLXPS15-54584-1554793914586-3:1:1:1, lastDeliveredSequenceId:0
+2019-04-09 11:11:59,784 | DEBUG | AbstractRegion.java 362 | localhost removing consumer: ID:FBDLXPS15-54584-1554793914586-3:1:1:1 for destination: queue://JMS.SAMPLE.REQ
+2019-04-09 11:11:59,785 | DEBUG | Queue.java 486 | queue://JMS.SAMPLE.REQ remove sub: QueueSubscription: consumer=ID:FBDLXPS15-54584-1554793914586-3:1:1:1, destinations=1, dispatched=0, delivered=0, pending=0, lastDeliveredSeqId: 0, dequeues: 0, dispatched: 0, inflight: 0
+2019-04-09 11:11:59,787 | DEBUG | AbstractRegion.java 362 | localhost removing consumer: ID:FBDLXPS15-54584-1554793914586-3:1:-1:1 for destination: ActiveMQ.Advisory.TempQueue,ActiveMQ.Advisory.TempTopic
+2019-04-09 11:11:59,787 | DEBUG | TransportConnection.java 741 | remove connection id: ID:FBDLXPS15-54584-1554793914586-3:1
+2019-04-09 11:11:59,789 | DEBUG | TransportConnection.java 1018 | Stopping connection: vm://localhost#0
+2019-04-09 11:11:59,789 | DEBUG | TransportConnection.java 1034 | Stopped transport: vm://localhost#0
+2019-04-09 11:11:59,789 | DEBUG | TransportConnection.java 1074 | Connection Stopped: vm://localhost#0
+2019-04-09 11:11:59,789 | DEBUG | VMTransportFactory.java 229 | Shutting down VM connectors for broker: localhost
+2019-04-09 11:11:59,789 | INFO | TransportConnector.java 307 | Connector vm://localhost Stopped
+2019-04-09 11:11:59,789 | INFO | BrokerService.java 605 | ActiveMQ Message Broker (localhost, ID:FBDLXPS15-54584-1554793914586-0:1) is shutting down
+2019-04-09 11:11:59,795 | INFO | BrokerService.java 676 | ActiveMQ JMS Message Broker (localhost, ID:FBDLXPS15-54584-1554793914586-0:1) stopped
+2019-04-09 11:11:59,796 | DEBUG | DefaultExecutorServiceManager.java 364 | Forcing shutdown of ExecutorService: java.util.concurrent.ThreadPoolExecutor@42f3156d[Running, pool size = 1, active threads = 0, queued tasks = 0, completed tasks = 1]
+2019-04-09 11:11:59,796 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=threadpools,name="JmsConsumer(0x1d7f7be7)"
+2019-04-09 11:11:59,797 | DEBUG | DefaultConsumer.java 139 | Stopping consumer: Consumer[activemq://JMS.SAMPLE.REQ]
+2019-04-09 11:11:59,797 | DEBUG | DefaultProducer.java 86 | Stopping producer: Producer[activemq://JMS.SAMPLE.RLY]
+2019-04-09 11:11:59,797 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=producers,name=JmsProducer(0x3a94964)
+2019-04-09 11:11:59,797 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: activemq://JMS.SAMPLE.REQ
+2019-04-09 11:11:59,798 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2019-04-09 11:11:59,798 | DEBUG | DefaultAsyncProcessorAwaitManager.java 212 | Shutting down with no inflight threads.
+2019-04-09 11:11:59,798 | DEBUG | TimerListenerManager.java 128 | Removed TimerListener: org.apache.camel.management.mbean.ManagedSuspendableRoute@768ccdc5
+2019-04-09 11:11:59,798 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=routes,name="route1"
+2019-04-09 11:11:59,799 | DEBUG | RouteService.java 253 | Stopping services on route: route1
+2019-04-09 11:11:59,799 | DEBUG | RouteService.java 377 | Shutting down child service on route: route1 -> Consumer[activemq://JMS.SAMPLE.REQ]
+2019-04-09 11:11:59,799 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=consumers,name=JmsConsumer(0x1d7f7be7)
+2019-04-09 11:11:59,799 | DEBUG | RouteService.java 377 | Shutting down child service on route: route1 -> Channel[sendTo(activemq://JMS.SAMPLE.RLY)]
+2019-04-09 11:11:59,799 | DEBUG | RouteService.java 377 | Shutting down child service on route: route1 -> sendTo(activemq://JMS.SAMPLE.RLY)
+2019-04-09 11:11:59,799 | DEBUG | RouteService.java 377 | Shutting down child service on route: route1 -> Channel[sendTo(activemq://JMS.SAMPLE.RLY)]
+2019-04-09 11:11:59,799 | DEBUG | RouteService.java 289 | Shutting down services on route: route1
+2019-04-09 11:11:59,800 | DEBUG | SimpleLanguage.java 139 | Clearing simple language predicate cache[size=0, hits=0, misses=0, evicted=0]
+2019-04-09 11:11:59,801 | DEBUG | SimpleLanguage.java 146 | Clearing simple language expression cache[size=0, hits=0, misses=0, evicted=0]
+2019-04-09 11:11:59,801 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=routecontrollers,name="camel-1"
+2019-04-09 11:11:59,801 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=health,name="camel-1"
+2019-04-09 11:11:59,801 | DEBUG | TimerListenerManager.java 128 | Removed TimerListener: org.apache.camel.management.mbean.ManagedCamelContext@bf71cec
+2019-04-09 11:11:59,801 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=context,name="camel-1"
+2019-04-09 11:11:59,801 | DEBUG | DefaultExecutorServiceManager.java 364 | Forcing shutdown of ExecutorService: org.apache.camel.util.concurrent.RejectableThreadPoolExecutor@240139e1[Running, pool size = 1, active threads = 0, queued tasks = 0, completed tasks = 1][ShutdownTask]
+2019-04-09 11:11:59,802 | DEBUG | DefaultInflightRepository.java 183 | Shutting down with no inflight exchanges.
+2019-04-09 11:11:59,802 | DEBUG | DefaultServicePool.java 110 | Stopping service pool: org.apache.camel.impl.SharedPollingConsumerServicePool@6fb365ed
+2019-04-09 11:11:59,802 | DEBUG | DefaultServicePool.java 110 | Stopping service pool: org.apache.camel.impl.SharedProducerServicePool@4f25b795
+2019-04-09 11:11:59,802 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultEndpointRegistry
+2019-04-09 11:11:59,803 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultRuntimeCamelCatalog
+2019-04-09 11:11:59,803 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultValidatorRegistry
+2019-04-09 11:11:59,803 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultInflightRepository
+2019-04-09 11:11:59,803 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultTypeConverter
+2019-04-09 11:11:59,803 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultExecutorServiceManager
+2019-04-09 11:11:59,803 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=components,name="activemq"
+2019-04-09 11:11:59,803 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=endpoints,name="activemq://JMS.SAMPLE.RLY"
+2019-04-09 11:11:59,803 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=errorhandlers,name="DefaultErrorHandlerBuilder(ref:CamelDefaultErrorHandlerBuilder)"
+2019-04-09 11:11:59,803 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=processors,name="to1"
+2019-04-09 11:11:59,804 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=tracer,name=BacklogTracer
+2019-04-09 11:11:59,804 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=endpoints,name="activemq://JMS.SAMPLE.REQ"
+2019-04-09 11:11:59,804 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultTransformerRegistry
+2019-04-09 11:11:59,804 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultAsyncProcessorAwaitManager
+2019-04-09 11:11:59,804 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=tracer,name=BacklogDebugger
+2019-04-09 11:11:59,804 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultShutdownStrategy
+2019-04-09 11:11:59,804 | DEBUG | DefaultManagementAgent.java 360 | Unregistered MBean with ObjectName: org.apache.camel:context=camel-1,type=services,name=DefaultRestRegistry
+2019-04-09 11:11:59,804 | DEBUG | MBeanInfoAssembler.java 82 | Clearing cache[size=24, hits=6, misses=24, evicted=0]
+2019-04-09 11:11:59,811 | DEBUG | IntrospectionSupport.java 137 | Clearing cache[size=82, hits=86, misses=82, evicted=0]
+2019-04-09 11:11:59,812 | INFO | DefaultCamelContext.java 3596 | Apache Camel 2.23.1 (CamelContext: camel-1) uptime 5.810 seconds
+2019-04-09 11:11:59,812 | INFO | DefaultCamelContext.java 3597 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutdown in 0.065 seconds
+2019-04-09 11:13:24,081 | INFO | DefaultCamelContext.java 3138 | Apache Camel 2.23.1 (CamelContext: camel-1) is starting
+2019-04-09 11:13:24,084 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2019-04-09 11:13:24,270 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 195, classpath: 4)
+2019-04-09 11:13:24,358 | INFO | DefaultCamelContext.java 3465 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-04-09 11:13:24,597 | INFO | BrokerService.java 521 | Using Persistence Adapter: MemoryPersistenceAdapter
+2019-04-09 11:13:24,598 | INFO | BrokerService.java 799 | ActiveMQ 5.6.0 JMS Message Broker (localhost) is starting
+2019-04-09 11:13:24,598 | INFO | BrokerService.java 801 | For help or more information please see: http://activemq.apache.org/
+2019-04-09 11:13:24,637 | INFO | ManagementContext.java 101 | JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2019-04-09 11:13:24,725 | INFO | BrokerService.java 564 | ActiveMQ JMS Message Broker (localhost, ID:FBDLXPS15-54610-1554794004610-0:1) started
+2019-04-09 11:13:24,730 | INFO | TransportConnector.java 265 | Connector vm://localhost Started
+2019-04-09 11:13:24,764 | INFO | DefaultCamelContext.java 4034 | Route: route1 started and consuming from: activemq://JMS.SAMPLE.REQ1
+2019-04-09 11:13:24,764 | INFO | DefaultCamelContext.java 3186 | Total 1 routes, of which 1 are started
+2019-04-09 11:13:24,765 | INFO | DefaultCamelContext.java 3197 | Apache Camel 2.23.1 (CamelContext: camel-1) started in 0.687 seconds
+2019-04-09 11:13:29,765 | INFO | DefaultCamelContext.java 3496 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutting down
+2019-04-09 11:13:29,766 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2019-04-09 11:13:29,806 | INFO | TransportConnector.java 307 | Connector vm://localhost Stopped
+2019-04-09 11:13:29,808 | INFO | BrokerService.java 605 | ActiveMQ Message Broker (localhost, ID:FBDLXPS15-54610-1554794004610-0:1) is shutting down
+2019-04-09 11:13:29,816 | INFO | BrokerService.java 676 | ActiveMQ JMS Message Broker (localhost, ID:FBDLXPS15-54610-1554794004610-0:1) stopped
+2019-04-09 11:13:29,817 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: activemq://JMS.SAMPLE.REQ1
+2019-04-09 11:13:29,818 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2019-04-09 11:13:29,828 | INFO | DefaultCamelContext.java 3596 | Apache Camel 2.23.1 (CamelContext: camel-1) uptime 5.750 seconds
+2019-04-09 11:13:29,828 | INFO | DefaultCamelContext.java 3597 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutdown in 0.063 seconds
+2019-04-09 11:27:37,094 | INFO | DefaultCamelContext.java 3138 | Apache Camel 2.23.1 (CamelContext: camel-1) is starting
+2019-04-09 11:27:37,096 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2019-04-09 11:27:37,289 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 195, classpath: 4)
+2019-04-09 11:27:37,376 | INFO | DefaultCamelContext.java 3465 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-04-09 11:27:37,610 | INFO | FailoverTransport.java 992 | Successfully connected to tcp://localhost:61616
+2019-04-09 11:27:37,662 | INFO | DefaultCamelContext.java 4034 | Route: route1 started and consuming from: activemq://JMS.SAMPLE.REQ
+2019-04-09 11:27:37,663 | INFO | DefaultCamelContext.java 3186 | Total 1 routes, of which 1 are started
+2019-04-09 11:27:37,665 | INFO | DefaultCamelContext.java 3197 | Apache Camel 2.23.1 (CamelContext: camel-1) started in 0.574 seconds
+2019-04-09 11:27:42,665 | INFO | DefaultCamelContext.java 3496 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutting down
+2019-04-09 11:27:42,667 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2019-04-09 11:27:42,732 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: activemq://JMS.SAMPLE.REQ
+2019-04-09 11:27:42,734 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2019-04-09 11:27:42,748 | INFO | DefaultCamelContext.java 3596 | Apache Camel 2.23.1 (CamelContext: camel-1) uptime 5.659 seconds
+2019-04-09 11:27:42,749 | INFO | DefaultCamelContext.java 3597 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutdown in 0.084 seconds
+2019-04-09 11:31:30,470 | INFO | DefaultCamelContext.java 3138 | Apache Camel 2.23.1 (CamelContext: camel-1) is starting
+2019-04-09 11:31:30,472 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2019-04-09 11:31:30,667 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 195, classpath: 4)
+2019-04-09 11:31:30,769 | INFO | DefaultCamelContext.java 3465 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-04-09 11:31:30,993 | INFO | FailoverTransport.java 992 | Successfully connected to tcp://localhost:61616
+2019-04-09 11:31:31,004 | INFO | DefaultCamelContext.java 4034 | Route: route1 started and consuming from: activemq://JMS.SAMPLE.REQ
+2019-04-09 11:31:31,005 | INFO | DefaultCamelContext.java 3186 | Total 1 routes, of which 1 are started
+2019-04-09 11:31:31,006 | INFO | DefaultCamelContext.java 3197 | Apache Camel 2.23.1 (CamelContext: camel-1) started in 0.539 seconds
+2019-04-09 11:31:31,043 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, Headers: {breadcrumbId=ID-FBDLXPS15-1554795090336-0-1, JMSCorrelationID=, JMSCorrelationIDAsBytes=null, JMSDeliveryMode=1, JMSDestination=queue://JMS.SAMPLE.REQ, JMSExpiration=0, JMSMessageID=ID:FBDLXPS15-54252-1554793317825-4:1:1:1:2, JMSPriority=0, JMSRedelivered=false, JMSReplyTo=null, JMSTimestamp=1554795083301, JMSType=, JMSXGroupID=null, JMSXUserID=null}, BodyType: String, Body: Enter some text here for the message body...]
+2019-04-09 11:31:36,008 | INFO | DefaultCamelContext.java 3496 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutting down
+2019-04-09 11:31:36,008 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2019-04-09 11:31:36,077 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: activemq://JMS.SAMPLE.REQ
+2019-04-09 11:31:36,079 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2019-04-09 11:31:36,088 | INFO | DefaultCamelContext.java 3596 | Apache Camel 2.23.1 (CamelContext: camel-1) uptime 5.622 seconds
+2019-04-09 11:31:36,088 | INFO | DefaultCamelContext.java 3597 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutdown in 0.080 seconds
+2019-04-09 11:41:22,262 | INFO | DefaultCamelContext.java 3138 | Apache Camel 2.23.1 (CamelContext: camel-1) is starting
+2019-04-09 11:41:22,265 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2019-04-09 11:41:22,459 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 195, classpath: 4)
+2019-04-09 11:41:22,563 | INFO | DefaultCamelContext.java 3465 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-04-09 11:41:22,809 | INFO | BrokerService.java 521 | Using Persistence Adapter: MemoryPersistenceAdapter
+2019-04-09 11:41:22,810 | INFO | BrokerService.java 799 | ActiveMQ 5.6.0 JMS Message Broker (localhost) is starting
+2019-04-09 11:41:22,810 | INFO | BrokerService.java 801 | For help or more information please see: http://activemq.apache.org/
+2019-04-09 11:41:22,848 | INFO | ManagementContext.java 101 | JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2019-04-09 11:41:22,973 | INFO | BrokerService.java 564 | ActiveMQ JMS Message Broker (localhost, ID:FBDLXPS15-55543-1554795682822-0:1) started
+2019-04-09 11:41:22,983 | INFO | TransportConnector.java 265 | Connector vm://localhost Started
+2019-04-09 11:41:23,024 | INFO | DefaultCamelContext.java 4034 | Route: route1 started and consuming from: activemq://JMS.SAMPLE.REQ
+2019-04-09 11:41:23,024 | INFO | DefaultCamelContext.java 3186 | Total 1 routes, of which 1 are started
+2019-04-09 11:41:23,025 | INFO | DefaultCamelContext.java 3197 | Apache Camel 2.23.1 (CamelContext: camel-1) started in 0.767 seconds
+2019-04-09 11:41:28,027 | INFO | DefaultCamelContext.java 3496 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutting down
+2019-04-09 11:41:28,027 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2019-04-09 11:41:28,062 | INFO | TransportConnector.java 307 | Connector vm://localhost Stopped
+2019-04-09 11:41:28,063 | INFO | BrokerService.java 605 | ActiveMQ Message Broker (localhost, ID:FBDLXPS15-55543-1554795682822-0:1) is shutting down
+2019-04-09 11:41:28,068 | INFO | BrokerService.java 676 | ActiveMQ JMS Message Broker (localhost, ID:FBDLXPS15-55543-1554795682822-0:1) stopped
+2019-04-09 11:41:28,069 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: activemq://JMS.SAMPLE.REQ
+2019-04-09 11:41:28,069 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2019-04-09 11:41:28,077 | INFO | DefaultCamelContext.java 3596 | Apache Camel 2.23.1 (CamelContext: camel-1) uptime 5.820 seconds
+2019-04-09 11:41:28,078 | INFO | DefaultCamelContext.java 3597 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutdown in 0.051 seconds
+2019-04-09 11:41:39,434 | INFO | DefaultCamelContext.java 3138 | Apache Camel 2.23.1 (CamelContext: camel-1) is starting
+2019-04-09 11:41:39,437 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2019-04-09 11:41:39,635 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 195, classpath: 4)
+2019-04-09 11:41:39,735 | INFO | DefaultCamelContext.java 3465 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-04-09 11:41:39,986 | INFO | BrokerService.java 521 | Using Persistence Adapter: MemoryPersistenceAdapter
+2019-04-09 11:41:39,987 | INFO | BrokerService.java 799 | ActiveMQ 5.6.0 JMS Message Broker (localhost) is starting
+2019-04-09 11:41:39,987 | INFO | BrokerService.java 801 | For help or more information please see: http://activemq.apache.org/
+2019-04-09 11:41:40,028 | INFO | ManagementContext.java 101 | JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2019-04-09 11:41:40,156 | INFO | BrokerService.java 564 | ActiveMQ JMS Message Broker (localhost, ID:FBDLXPS15-55556-1554795699999-0:1) started
+2019-04-09 11:41:40,168 | INFO | TransportConnector.java 265 | Connector vm://localhost Started
+2019-04-09 11:41:40,203 | INFO | DefaultCamelContext.java 4034 | Route: route1 started and consuming from: activemq://JMS.SAMPLE.REQ
+2019-04-09 11:41:40,203 | INFO | DefaultCamelContext.java 3186 | Total 1 routes, of which 1 are started
+2019-04-09 11:41:40,205 | INFO | DefaultCamelContext.java 3197 | Apache Camel 2.23.1 (CamelContext: camel-1) started in 0.774 seconds
+2019-04-09 11:41:45,206 | INFO | DefaultCamelContext.java 3496 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutting down
+2019-04-09 11:41:45,206 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2019-04-09 11:41:45,241 | INFO | TransportConnector.java 307 | Connector vm://localhost Stopped
+2019-04-09 11:41:45,242 | INFO | BrokerService.java 605 | ActiveMQ Message Broker (localhost, ID:FBDLXPS15-55556-1554795699999-0:1) is shutting down
+2019-04-09 11:41:45,248 | INFO | BrokerService.java 676 | ActiveMQ JMS Message Broker (localhost, ID:FBDLXPS15-55556-1554795699999-0:1) stopped
+2019-04-09 11:41:45,249 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: activemq://JMS.SAMPLE.REQ
+2019-04-09 11:41:45,249 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2019-04-09 11:41:45,253 | INFO | DefaultCamelContext.java 3596 | Apache Camel 2.23.1 (CamelContext: camel-1) uptime 5.823 seconds
+2019-04-09 11:41:45,253 | INFO | DefaultCamelContext.java 3597 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutdown in 0.047 seconds
+2019-04-09 11:42:30,814 | INFO | DefaultCamelContext.java 3138 | Apache Camel 2.23.1 (CamelContext: camel-1) is starting
+2019-04-09 11:42:30,817 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2019-04-09 11:42:31,026 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 195, classpath: 4)
+2019-04-09 11:42:31,146 | INFO | DefaultCamelContext.java 3465 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-04-09 11:42:31,385 | INFO | FailoverTransport.java 992 | Successfully connected to tcp://localhost:61616
+2019-04-09 11:42:31,394 | INFO | DefaultCamelContext.java 4034 | Route: route1 started and consuming from: activemq://JMS.SAMPLE.REQ
+2019-04-09 11:42:31,395 | INFO | DefaultCamelContext.java 3186 | Total 1 routes, of which 1 are started
+2019-04-09 11:42:31,397 | INFO | DefaultCamelContext.java 3197 | Apache Camel 2.23.1 (CamelContext: camel-1) started in 0.585 seconds
+2019-04-09 11:42:31,431 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, Headers: {breadcrumbId=ID-FBDLXPS15-1554795750692-0-1, JMSCorrelationID=, JMSCorrelationIDAsBytes=null, JMSDeliveryMode=1, JMSDestination=queue://JMS.SAMPLE.REQ, JMSExpiration=0, JMSMessageID=ID:FBDLXPS15-54252-1554793317825-4:1:1:1:3, JMSPriority=0, JMSRedelivered=false, JMSReplyTo=null, JMSTimestamp=1554795689235, JMSType=, JMSXGroupID=null, JMSXUserID=null}, BodyType: String, Body: Enter some text here for the message body...]
+2019-04-09 11:42:36,398 | INFO | DefaultCamelContext.java 3496 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutting down
+2019-04-09 11:42:36,399 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2019-04-09 11:42:36,459 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: activemq://JMS.SAMPLE.REQ
+2019-04-09 11:42:36,460 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2019-04-09 11:42:36,470 | INFO | DefaultCamelContext.java 3596 | Apache Camel 2.23.1 (CamelContext: camel-1) uptime 5.660 seconds
+2019-04-09 11:42:36,471 | INFO | DefaultCamelContext.java 3597 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutdown in 0.073 seconds
+2019-04-09 11:44:16,646 | INFO | DefaultCamelContext.java 3138 | Apache Camel 2.23.1 (CamelContext: camel-1) is starting
+2019-04-09 11:44:16,649 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2019-04-09 11:44:16,848 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 195, classpath: 4)
+2019-04-09 11:44:16,955 | INFO | DefaultCamelContext.java 3465 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-04-09 11:44:17,190 | INFO | FailoverTransport.java 992 | Successfully connected to tcp://localhost:61616
+2019-04-09 11:44:17,207 | INFO | DefaultCamelContext.java 4034 | Route: route1 started and consuming from: activemq://JMS.SAMPLE.REQ?asyncConsumer=true&concurrentConsumers=10
+2019-04-09 11:44:17,208 | INFO | DefaultCamelContext.java 3186 | Total 1 routes, of which 1 are started
+2019-04-09 11:44:17,209 | INFO | DefaultCamelContext.java 3197 | Apache Camel 2.23.1 (CamelContext: camel-1) started in 0.566 seconds
+2019-04-09 11:45:07,211 | INFO | DefaultCamelContext.java 3496 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutting down
+2019-04-09 11:45:07,212 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2019-04-09 11:45:07,265 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: activemq://JMS.SAMPLE.REQ?asyncConsumer=true&concurrentConsumers=10
+2019-04-09 11:45:07,266 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2019-04-09 11:45:07,275 | INFO | DefaultCamelContext.java 3596 | Apache Camel 2.23.1 (CamelContext: camel-1) uptime 50.633 seconds
+2019-04-09 11:45:07,275 | INFO | DefaultCamelContext.java 3597 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutdown in 0.064 seconds
+2019-04-09 11:50:26,856 | INFO | DefaultCamelContext.java 3138 | Apache Camel 2.23.1 (CamelContext: camel-1) is starting
+2019-04-09 11:50:26,859 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2019-04-09 11:50:27,081 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 195, classpath: 4)
+2019-04-09 11:50:27,244 | INFO | DefaultCamelContext.java 3465 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-04-09 11:50:27,480 | INFO | FailoverTransport.java 992 | Successfully connected to tcp://localhost:61616
+2019-04-09 11:50:27,491 | INFO | DefaultCamelContext.java 4034 | Route: route1 started and consuming from: activemq://JMS.SAMPLE.REQ?asyncConsumer=true&concurrentConsumers=10
+2019-04-09 11:50:27,491 | INFO | DefaultCamelContext.java 3186 | Total 1 routes, of which 1 are started
+2019-04-09 11:50:27,493 | INFO | DefaultCamelContext.java 3197 | Apache Camel 2.23.1 (CamelContext: camel-1) started in 0.639 seconds
+2019-04-09 11:50:38,333 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, Headers: {breadcrumbId=ID-FBDLXPS15-1554796226726-0-1, JMSCorrelationID=, JMSCorrelationIDAsBytes=null, JMSDeliveryMode=1, JMSDestination=queue://JMS.SAMPLE.REQ, JMSExpiration=0, JMSMessageID=ID:FBDLXPS15-54252-1554793317825-4:3:1:1:1, JMSPriority=0, JMSRedelivered=false, JMSReplyTo=null, JMSTimestamp=1554796238307, JMSType=, JMSXGroupID=null, JMSXUserID=null}, BodyType: String, Body: Enter some text here for the message body...]
+2019-04-09 11:50:43,674 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, Headers: {breadcrumbId=ID-FBDLXPS15-1554796226726-0-2, JMSCorrelationID=, JMSCorrelationIDAsBytes=null, JMSDeliveryMode=1, JMSDestination=queue://JMS.SAMPLE.REQ, JMSExpiration=0, JMSMessageID=ID:FBDLXPS15-54252-1554793317825-4:3:1:1:2, JMSPriority=0, JMSRedelivered=false, JMSReplyTo=null, JMSTimestamp=1554796243671, JMSType=, JMSXGroupID=null, JMSXUserID=null}, BodyType: String, Body: Enter some text here for the message body...]
+2019-04-09 11:50:50,130 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, Headers: {breadcrumbId=ID-FBDLXPS15-1554796226726-0-3, JMSCorrelationID=, JMSCorrelationIDAsBytes=null, JMSDeliveryMode=1, JMSDestination=queue://JMS.SAMPLE.REQ, JMSExpiration=0, JMSMessageID=ID:FBDLXPS15-54252-1554793317825-4:3:1:1:3, JMSPriority=0, JMSRedelivered=false, JMSReplyTo=null, JMSTimestamp=1554796250126, JMSType=, JMSXGroupID=null, JMSXUserID=null}, BodyType: String, Body: Enter some text here for the message body...]
+2019-04-09 11:51:17,495 | INFO | DefaultCamelContext.java 3496 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutting down
+2019-04-09 11:51:17,495 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2019-04-09 11:51:18,367 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: activemq://JMS.SAMPLE.REQ?asyncConsumer=true&concurrentConsumers=10
+2019-04-09 11:51:18,368 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2019-04-09 11:51:18,376 | INFO | DefaultCamelContext.java 3596 | Apache Camel 2.23.1 (CamelContext: camel-1) uptime 51.524 seconds
+2019-04-09 11:51:18,378 | INFO | DefaultCamelContext.java 3597 | Apache Camel 2.23.1 (CamelContext: camel-1) is shutdown in 0.883 seconds
